@@ -9,5 +9,3 @@ honeyswap landing page built on css gird, flexbox and javascript
 [google structure data](https://developers.google.com/search/docs/guides/intro-structured-data "google structure data docs")
 
 [ramp sdk](https://docs.ramp.network/ "ramp docs")
-
-ramp
