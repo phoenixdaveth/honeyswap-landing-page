@@ -509,8 +509,8 @@ p {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 50%;
-  background-color: #fcf1f1;
-  box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.23);
+  background-color: #fcf1f100;
+  box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.023);
 }
 
 .left-arrow {
